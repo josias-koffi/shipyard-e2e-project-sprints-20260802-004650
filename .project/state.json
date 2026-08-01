@@ -1,0 +1,7 @@
+{
+  "project_name":"shipyard-e2e-project-sprints-20260802-004650", "current_sprint":1, "completed_sprints":[],
+  "loop":{"status":"idle","current_iteration":null,"current_issue":null,"attempts":{},
+    "paused_reason":null,"resume_after":null,"board_id":null,"board_owner":"josias-koffi",
+    "max_review_rounds":1,"max_attempts_per_issue":1,"max_iterations_per_sprint":50,
+    "escalated_issues":[],"blockers":[]}
+}
